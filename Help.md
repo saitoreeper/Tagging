@@ -1,6 +1,4 @@
-layout: page
-title: "help"
-permalink: http://saitoreeper.github.io/Tagging/
+
 
 
 ## Welcome to GitHub Pages
