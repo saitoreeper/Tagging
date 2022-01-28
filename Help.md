@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: /help/
+
 
 ## Welcome to GitHub Pages
 
