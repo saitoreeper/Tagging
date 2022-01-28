@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /help/
+title: "help"
+permalink: http://saitoreeper.github.io/Tagging/
 
 
 ## Welcome to GitHub Pages
